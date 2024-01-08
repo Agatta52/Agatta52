@@ -13,7 +13,7 @@ https://agatta52.github.io/Portfolio-Repo/
 
 
 ### My Blog ###
-[Click here](https://659c4667c836b20ad252f5bf--teal-naiad-64da4b.netlify.app/)
+[Click here](https://teal-naiad-64da4b.netlify.app/)
 
 <div>
   <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47bvqpzvzes7pti7b025bulw0sin076b8xmu82pzn0&rid=giphy.gif&ct=g" width="200"/>
