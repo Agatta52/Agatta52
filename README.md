@@ -15,6 +15,10 @@ https://agatta52.github.io/Portfolio-Repo/
 ### My Blog ###
 [Click here](https://teal-naiad-64da4b.netlify.app/)
 
+
+### My new blog about journeys:
+[still in progress...](https://agatta52.github.io/voyage-vista/)
+
 <div>
   <img src="https://media3.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif?cid=ecf05e47bvqpzvzes7pti7b025bulw0sin076b8xmu82pzn0&rid=giphy.gif&ct=g" width="200"/>
 </div>
